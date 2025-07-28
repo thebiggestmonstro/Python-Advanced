@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dfde2d0-aaf9-4d5d-9838-f91e7751bd04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture01_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture01_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture01_04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,7 @@
     "Python.Lecture01_01.executor": "Run",
     "Python.Lecture01_02.executor": "Run",
     "Python.Lecture01_03.executor": "Run",
+    "Python.Lecture01_04.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
