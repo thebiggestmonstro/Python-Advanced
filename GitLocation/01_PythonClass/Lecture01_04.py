@@ -61,3 +61,4 @@ print(f"After : {p1.personCount}")
 
 Person.getChildClass(p3)
 Person.getChildClass(object)
+p2.getChildClass(p1)
